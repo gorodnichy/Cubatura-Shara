@@ -1,0 +1,24 @@
+
+
+
+# Статистический анализ текста {#TextMining .unnumbered}
+
+
+
+
+
+```{r,  out.width='66%', fig.align='center', echo=FALSE}
+knitr::include_graphics("images/cover1.jpg")
+
+```
+
+
+
+```{r,  out.width='80%', fig.align='center', echo=FALSE}
+knitr::include_graphics("images/wordcloud.png")
+```
+
+
+
+
+

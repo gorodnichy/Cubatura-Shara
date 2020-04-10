@@ -1,0 +1,40 @@
+--- 
+title: "«Кубатура Шара»"
+author: "Андрей Городничий"
+site: bookdown::bookdown_site
+description: "Poetry of Andrey Gorodnichy"
+url: 'http\://bookdown.org/gorodnichy/andre'
+cover-image: "images/cover1.jpg"
+documentclass: book
+---
+
+
+
+# Содержание {-}
+
+
+
+```{r,  out.width='66%', fig.align='center', echo=FALSE}
+knitr::include_graphics("images/cover2.jpg")
+```
+
+
+
+Версия для печати:  [PDF](Cubatura-Shara.pdf), [EPUB](Cubatura-Shara.epub).   
+Online: https://bookdown.org/gorodnichy/andre.
+
+<!-- [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)  -->
+
+
+<!-- Книга сделана с использованием [R](https://www.rstudio.com/) and [bookdown](https://bookdown.org/).  -->
+
+<!-- Источник на [github](https://github.com/gorodnichy/andre). -->
+
+<!-- ## Copyright note {-} -->
+
+<!-- Copyright &copy; IVIM Inc. 1981-2018.    -->
+<!-- All Rights Reserved. The use the copyrighted material for non-commercial purposes is allowed. The reference to the source is required.  -->
+ 
+<!-- The author grants the right to use the copyrighted material for non-commercial purposes. The reference to the source is required.  -->
+
+
